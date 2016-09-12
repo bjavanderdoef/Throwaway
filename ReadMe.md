@@ -1,8 +1,8 @@
 # Throwaway GitHub Depository
 
-This is just a place where I am learning about working with GitHub repositories.
+This is just a place where I am learning about working with **GitHub** repositories.
 
-A Markup file (.md) is a text file that uses Markup syntax to produce a document that others can read online when they check out your repository.
+A Markup file (.md) is a text file that uses *Markup syntax* to produce a document that others can read online when they check out your repository.
 
 I hope to learn the following:
 
